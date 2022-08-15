@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python , MS-SQL , Tableau**
 
-- 📫 How to reach me **srsinghrajat99@gmail.com**
+- 📫 To reach me **srsinghrajat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
