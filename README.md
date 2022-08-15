@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
 
 
-<img align="right" alt="Coding" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<img align="right" alt="Coding" width="350" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
