@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python (Numpy, Pandas, Matplotlib) , MS-SQL , Tableau**
 
-- 📝 I write articles on [https://medium.com/@srsinghrajat99](https://medium.com/@srsinghrajat99)
+- 📝 I write articles on **[https://medium.com/@srsinghrajat99](https://medium.com/@srsinghrajat99)**
 
 - 📫 To reach me **srsinghrajat99@gmail.com**
 
