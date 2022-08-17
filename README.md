@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **Python , MS-SQL , Tableau**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib) , MS-SQL , Tableau**
 
 - 📫 To reach me **srsinghrajat99@gmail.com**
 
