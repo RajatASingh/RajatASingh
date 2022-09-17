@@ -1,7 +1,7 @@
 ![MasterHead](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
 <h1 align="center">👋, I'm Rajat Singh</h1>
 
-<h3 align="center">A guy who is working toward his goal to become a skilled Data analyst & Data scientist with the help of consistency, focus, and practice.</h3>
+<h3 align="center"> </h3>
 
 
 <img align="right" alt="Coding" width="380" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
