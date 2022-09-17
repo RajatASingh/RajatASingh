@@ -1,7 +1,7 @@
 ![MasterHead](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
 <h1 align="center">👋, I'm Rajat Singh</h1>
 
-<h3 align="center"> </h3>
+<h3 align="center">Data science & analytics aspirant. Skilled in python, MS-SQL & Tableau </h3>
 
 
 <img align="right" alt="Coding" width="380" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
