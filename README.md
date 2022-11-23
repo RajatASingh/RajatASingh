@@ -7,13 +7,13 @@
 <img align="right" alt="Coding" width="380" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+-  **Data Science & Machine Learning**
 
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib) , MS-SQL , Tableau**
+-  Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn) , MySQL , Tableau**
 
-- 📝 I write articles on **[https://medium.com/@srsinghrajat99](https://medium.com/@srsinghrajat99)**
+-  I write articles on **[https://medium.com/@srsinghrajat99](https://medium.com/@srsinghrajat99)**
 
-- 📫 To reach me **srsinghrajat99@gmail.com**
+-  To reach me **srsinghrajat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
