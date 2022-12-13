@@ -1,4 +1,4 @@
-![MasterHead](![what-is-data-analyst](https://user-images.githubusercontent.com/105695431/207276523-8b3cf21b-fbcd-4138-a5de-ede301b2169b.jpg)
+![DataAnalytics](https://user-images.githubusercontent.com/105695431/207277420-a6fe47c2-43e2-4f49-9f70-43263b664a91.gif)
 <h1 align="center">👋, I'm Rajat Singh</h1>
 
 <h3 align="center">Data science & analytics aspirant. Skilled in python(Pandas, NumPy, Matplotlib, Seaborm), MySQL & Tableau </h3>
