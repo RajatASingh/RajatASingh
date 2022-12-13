@@ -1,4 +1,4 @@
-![MasterHead](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
+![MasterHead](![what-is-data-analyst](https://user-images.githubusercontent.com/105695431/207276523-8b3cf21b-fbcd-4138-a5de-ede301b2169b.jpg)
 <h1 align="center">👋, I'm Rajat Singh</h1>
 
 <h3 align="center">Data science & analytics aspirant. Skilled in python(Pandas, NumPy, Matplotlib, Seaborm), MySQL & Tableau </h3>
